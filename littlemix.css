@@ -1,0 +1,11 @@
+body {
+   margin: 0;
+   height: 100vh;
+   background-image: url(/images/Little-Mix.jpeg);
+   background-size: cover;         /* behöver inte: no-repeat eftersom jag använder cover*/
+   background-attachment: fixed;
+}
+
+
+
+
